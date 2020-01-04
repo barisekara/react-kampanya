@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/react-kampanya/static/js/main.cbbf469b.chunk.js",
+    "main.js.map": "/react-kampanya/static/js/main.cbbf469b.chunk.js.map",
+    "runtime-main.js": "/react-kampanya/static/js/runtime-main.4ead4452.js",
+    "runtime-main.js.map": "/react-kampanya/static/js/runtime-main.4ead4452.js.map",
+    "static/css/2.f31e4b8b.chunk.css": "/react-kampanya/static/css/2.f31e4b8b.chunk.css",
+    "static/js/2.ab3d075f.chunk.js": "/react-kampanya/static/js/2.ab3d075f.chunk.js",
+    "static/js/2.ab3d075f.chunk.js.map": "/react-kampanya/static/js/2.ab3d075f.chunk.js.map",
+    "index.html": "/react-kampanya/index.html",
+    "precache-manifest.f7097da24f634e55f587585c48eddf0c.js": "/react-kampanya/precache-manifest.f7097da24f634e55f587585c48eddf0c.js",
+    "service-worker.js": "/react-kampanya/service-worker.js",
+    "static/css/2.f31e4b8b.chunk.css.map": "/react-kampanya/static/css/2.f31e4b8b.chunk.css.map",
+    "static/js/2.ab3d075f.chunk.js.LICENSE": "/react-kampanya/static/js/2.ab3d075f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ead4452.js",
+    "static/css/2.f31e4b8b.chunk.css",
+    "static/js/2.ab3d075f.chunk.js",
+    "static/js/main.cbbf469b.chunk.js"
+  ]
+}
