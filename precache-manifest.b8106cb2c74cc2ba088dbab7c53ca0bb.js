@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3742ad63f243bc39bfc0460a769e0080",
+    "revision": "5df6a36c513a9e5b18ce1ef093450fa8",
     "url": "/react-kampanya/index.html"
   },
   {
-    "revision": "fe5b9ac69ded210ac114",
+    "revision": "f54fac6f44c0f7c91711",
     "url": "/react-kampanya/static/css/2.f31e4b8b.chunk.css"
   },
   {
-    "revision": "fe5b9ac69ded210ac114",
-    "url": "/react-kampanya/static/js/2.ab3d075f.chunk.js"
+    "revision": "f54fac6f44c0f7c91711",
+    "url": "/react-kampanya/static/js/2.2762a9c2.chunk.js"
   },
   {
     "revision": "54f6e2d0ef339619d0a432be7ac0ab75",
-    "url": "/react-kampanya/static/js/2.ab3d075f.chunk.js.LICENSE"
+    "url": "/react-kampanya/static/js/2.2762a9c2.chunk.js.LICENSE"
   },
   {
-    "revision": "b5788fb6f1f7a2db832a",
-    "url": "/react-kampanya/static/js/main.cbbf469b.chunk.js"
+    "revision": "acae6d3b1f464493cf9c",
+    "url": "/react-kampanya/static/js/main.9df41dd2.chunk.js"
   },
   {
     "revision": "fcdbdd74e97eab036fd0",
